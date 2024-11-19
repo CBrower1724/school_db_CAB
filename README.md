@@ -1,0 +1,1 @@
+This file attatched is the school_db file from SQL that was practice after our last class learning SQL. The data within the file shows data entry, data updating, data deletion, as well as data uploading. The data surrounds the addition to the school_db and creating a student table. This was good practice and quality data to get more familiar and comfortable with SQL.
